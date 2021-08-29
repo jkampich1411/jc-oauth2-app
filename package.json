@@ -1,0 +1,26 @@
+{
+  "name": "future-oauth2-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theJakobcraft/future-events.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theJakobcraft/future-events/issues"
+  },
+  "homepage": "https://github.com/theJakobcraft/future-events#readme",
+  "dependencies": {
+    "@azure/msal-node": "^1.3.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security"
+  }
+}
